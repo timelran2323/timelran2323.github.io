@@ -1,0 +1,8 @@
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.AssemblyReference.cache
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\хач\Documents\проба пера\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
